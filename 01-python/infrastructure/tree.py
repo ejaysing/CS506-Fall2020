@@ -1,6 +1,5 @@
-def draw_tree():
-    num_trees = 1
-
+def draw_tree(num_trees=1):
+    
     for i in range(num_trees):
         print()
         print("      /" + "\\")
@@ -11,6 +10,6 @@ def draw_tree():
         print(" ------------")
         print("/            " + "\\")
         print("---------------")
-        print("      |_|")
-        
+        print("      |_|\n")
+         
     return
