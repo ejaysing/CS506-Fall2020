@@ -10,6 +10,6 @@ def draw_tree(num_trees=1):
         print(" ------------")
         print("/            " + "\\")
         print("---------------")
-        print("      |_|\n")
+        print("      |_|")
          
     return
