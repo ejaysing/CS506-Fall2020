@@ -36,6 +36,12 @@ Install the `cs506` package locally:
     pip install .
 ```
 
+For Mac users, if you have python3, but received an error about not being up-to-date, type the following instead
+
+```bash
+    pip3 install .
+```
+
 Install all the `requirements.txt`
 
 ```bash
